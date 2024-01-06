@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thepotatomovies/static/css/main.97075f7e.css",
-    "main.js": "/thepotatomovies/static/js/main.064bb434.js",
+    "main.css": "/thepotatomovies/static/css/main.8822cd79.css",
+    "main.js": "/thepotatomovies/static/js/main.f42e8cfc.js",
     "static/js/787.a00868a0.chunk.js": "/thepotatomovies/static/js/787.a00868a0.chunk.js",
     "index.html": "/thepotatomovies/index.html",
-    "main.97075f7e.css.map": "/thepotatomovies/static/css/main.97075f7e.css.map",
-    "main.064bb434.js.map": "/thepotatomovies/static/js/main.064bb434.js.map",
+    "main.8822cd79.css.map": "/thepotatomovies/static/css/main.8822cd79.css.map",
+    "main.f42e8cfc.js.map": "/thepotatomovies/static/js/main.f42e8cfc.js.map",
     "787.a00868a0.chunk.js.map": "/thepotatomovies/static/js/787.a00868a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97075f7e.css",
-    "static/js/main.064bb434.js"
+    "static/css/main.8822cd79.css",
+    "static/js/main.f42e8cfc.js"
   ]
 }
