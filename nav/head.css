@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.head{
+    background-color: black;
+    padding: 10px 50px;
+    text-decoration: none;
+        color: white;
+}
+.up{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        outline: none;
+        text-decoration: none;
+        color: white;
+}
+.sne{
+    text-decoration: none;
+        color: white;
+}
+.icon{
+    text-decoration: none;
+    color: white;
+        font-size: 25px;
+}
+a:link { text-decoration: none; }
+

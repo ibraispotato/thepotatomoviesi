@@ -1,0 +1,27 @@
+.clickTwo{
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.clickOne{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.mo{
+    /* background-color: cadetblue; */
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 10;
+   
+}
+
+@media(min-width:1920px){
+.clickOne{
+    /* margin-right: 80px; */
+}
+
+}
